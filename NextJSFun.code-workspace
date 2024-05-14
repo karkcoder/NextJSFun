@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "NextJSFun",
+			"path": "."
+		},
+		{
+			"name": "my-app",
+			"path": "my-app"
+		}
+	],
+	"settings": {}
+}
